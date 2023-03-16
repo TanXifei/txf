@@ -1,8 +1,8 @@
 ---
-title: Box of Issues
+title: TanXifei Seewo System
 layout: post
-background: https://cdna.artstation.com/p/assets/images/images/008/555/002/large/antoine-collignon-bigger.jpg
-subtitle: A long time coming.
+background: https://i.328888.xyz/2023/03/16/KvdtL.png
+subtitle: wow
 artist: artstation.com/antoinecollignon
 ---
 
