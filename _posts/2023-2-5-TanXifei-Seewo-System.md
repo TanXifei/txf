@@ -14,13 +14,13 @@ artist: artstation.com/antoinecollignon
 
 此版本关闭了ES5部署插件，若出现不能部署请通过邮箱联系谭汐霏
 
-[谭汐霏的邮箱：tanxifei@tx648.cn](mailto:谭汐霏的邮箱：tanxifei@tx648.cn)
+谭汐霏的邮箱：tanxifei@tx648.cn
 
 store安装是通过计划任务进行的（已经寄掉了）
 
 请到C盘“部署后可删除”→“store”中运行“A安装.bat”
 
-该版本修复了V2.1中遇到的特性，并合入浏览器与MS Store（安装包）（Modern软件安装成功率未知，需 要启动更新服务）
+该版本修复了V2.1中遇到的特性，并合入浏览器与MS Store（安装包）（Modern软件安装成功率未知，需要启动更新服务）
 
 母盘版本：Windows11 22H2
 
@@ -66,9 +66,9 @@ Office2019标准版 16.0.15023（关闭更新）
 
 下载链接:
 
-OneDrive E5：https://tanxifei807coursewarelibrary-my.sharepoint.com/:f:/g/personal/tanxifei_tanxifei_onmicrosoft_com/EuFu7zEvxZdOk-_E8_vDpjoBFYVUdLBG2H-1neNEcljeXQ
+OneDrive E5：[az](https://tanxifei807coursewarelibrary-my.sharepoint.com/:f:/g/personal/tanxifei_tanxifei_onmicrosoft_com/EuFu7zEvxZdOk-_E8_vDpjoBFYVUdLBG2H-1neNEcljeXQ)
 
-huang1111网盘：https://pan.huang1111.cn/s/1aZ5Uv
+huang1111网盘：[点我](https://pan.huang1111.cn/s/1aZ5Uv)
 
 ##### 不建议将盘符修改为C以外的盘符，可能会出现特性（）
 
@@ -100,19 +100,19 @@ Office2019标准版
 
 预装软件截图（压缩软件最终选用Bandizip）
 
-![(适中)](https://sway.office.com/s/WVaBFerAZKJpd0M6/images/YVNr5vcLRAW8rZ?quality=960&allowAnimation=true)
+<img src="https://sway.office.com/s/WVaBFerAZKJpd0M6/images/YVNr5vcLRAW8rZ?quality=960&allowAnimation=true" style="zoom:50%;" />
 
 实机展示（未公开的2.0版本）（Seewo F86EA 2017款）（公开版使用Office2019，请忽略桌面的WPS）
 
-![(适中)](https://sway.office.com/s/WVaBFerAZKJpd0M6/images/zuasOWaFhJa5-o?quality=1199&allowAnimation=true)
+<img src="https://sway.office.com/s/WVaBFerAZKJpd0M6/images/zuasOWaFhJa5-o?quality=1199&allowAnimation=true" style="zoom:50%;" />
 
-![(适中)](https://sway.office.com/s/WVaBFerAZKJpd0M6/images/FNMfxuq1lV4NgN?quality=1199&allowAnimation=true)
+<img src="https://sway.office.com/s/WVaBFerAZKJpd0M6/images/FNMfxuq1lV4NgN?quality=1199&allowAnimation=true" style="zoom:50%;" />
 
 下载链接:
 
-OneDrive E5：https://tanxifei807coursewarelibrary-my.sharepoint.com/:f:/g/personal/tanxifei_tanxifei_onmicrosoft_com/EuFu7zEvxZdOk-_E8_vDpjoBFYVUdLBG2H-1neNEcljeXQ
+OneDrive E5：[az](https://tanxifei807coursewarelibrary-my.sharepoint.com/:f:/g/personal/tanxifei_tanxifei_onmicrosoft_com/EuFu7zEvxZdOk-_E8_vDpjoBFYVUdLBG2H-1neNEcljeXQ)
 
-huang1111网盘：https://pan.huang1111.cn/s/1aZ5Uv
+huang1111：[点我](https://pan.huang1111.cn/s/1aZ5Uv)
 
 # TanXifei Seewo System V1.1
 
